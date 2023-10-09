@@ -1,91 +1,78 @@
 ---
-layout: cv
-title: Isaac Newtons's CV
+
+layout: cv  
+title: My CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Atilla
+Software Developer, Specializing in Odoo and Flutter
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="alsan.atilla@icloud.com">alsan.atilla@icloud.com</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Software Developer at one of Germany's biggest online shops
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+- Odoo Development
+- Flutter Development
+- EDI Integration
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+- Health Informatics
+- Patient Journey Apps
+- E-commerce Solutions
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Year-Year`
+__Bachelor's Degree in Health Informatics, [Your University]__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- GPA: 2.3
+- Bachelor Thesis: A concept for a patient journey app for diabetes patients (Grade: 2.0)
 
-- Sizar
 
-`1667 - death`
-__Trinity College, Cambridge__
+## Experience
 
-- Fellow
+`Year-Year`
+__Software Developer, [Your Company]__
 
+- Worked on Odoo integration
+- Implemented various Flutter-based features
+
+`Year-Year`
+__[Any Previous Experience]__
+
+- [Responsibilities and Achievements]
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+`Year`
+[Relevant Awards or Certifications]
 
 
+## Publications or Projects
 
-## Publications
+### Projects
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+- Patient Journey App for Diabetes Patients
 
-### Journals
+### GitHub Repos
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+- Odoo Modules
+- Flutter Projects
 
-`1669`
-Lectiones opticæ.
+## Skills
 
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
+- Odoo
+- Flutter
+- EDI
+- Health Informatics
 
